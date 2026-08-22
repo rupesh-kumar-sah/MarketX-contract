@@ -7,3 +7,5 @@ target
 issues.md
 ai_frontend_guide.md
 contracts/marketx/test_snapshots/ 
+config.bat
+node_modules
